@@ -7,7 +7,7 @@
 
 ---
 
-> *"Gelecekte yazılımı insanlar yazacak, güvenliğini ise yalnızca yapay zekayı anlayanlar sağlayacak."*
+> *"Yazılımı artık yapay zeka yazıyor; güvenliğini ise yalnızca yapay zekanın nasıl 'düşündüğünü' anlayanlar sağlayacak."*
 
 ---
 
