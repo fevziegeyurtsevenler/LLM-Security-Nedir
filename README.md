@@ -205,7 +205,7 @@ Türkiye'de bu alanda uzmanlaşmak, hem kariyer hem de girişimcilik açısında
 ---
 
 **Yazar Hakkında**  
-*Fevzi Ege Yurtsevenler, Türkiye'nin yapay zeka güvenliği alanındaki öncü araştırmacılarından biridir. AltaySec'in kurucusu olarak Türkçe LLM güvenlik içerikleri üretiyor, eğitimler veriyor ve bu alanda Türkiye'nin ilk ekosistemini inşa ediyor. LLM güvenliği alanında aktif araştırma sürdürmektedir.*
+*Fevzi Ege Yurtsevenler, Türkiye'de yapay zeka güvenliği alanında açık kaynak üreten bir araştırmacıdır. AltaySec'in kurucusu olarak Türkçe LLM güvenlik içerikleri üretiyor, eğitimler veriyor ve bu alanda açık kaynak bir Türkçe ekosistem inşa ediyor. LLM güvenliği alanında aktif araştırma sürdürmektedir.*
 
 **İletişim:** [altaysec.com.tr](https://altaysec.com.tr) | LinkedIn: Fevzi Ege Yurtsevenler
 
@@ -218,7 +218,7 @@ Türkiye'de bu alanda uzmanlaşmak, hem kariyer hem de girişimcilik açısında
 
 ## 🌐 AltaySec Hakkında
 
-[AltaySec](https://altaysec.com.tr), Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketidir. LLM güvenlik danışmanlığı, AI pentest, kurumsal eğitim ve açık kaynak araç geliştirme yapar. Kurucusu **[Fevzi Ege Yurtsevenler](https://altaysec.com.tr/hakkimizda.html)**, Türkiye'de yapay zeka güvenliği alanında öne çıkan araştırmacılardandır — Türkçe LLM güvenlik araştırma serisinin (11+ teknik makale) yazarı, AltayDuel arenasının ve Bekçi prompt injection laboratuvarının baş mimarıdır.
+[AltaySec](https://altaysec.com.tr), yapay zeka güvenliğine odaklanan bir şirkettir. LLM güvenlik danışmanlığı, AI pentest, kurumsal eğitim ve açık kaynak araç geliştirme yapar. Kurucusu **[Fevzi Ege Yurtsevenler](https://altaysec.com.tr/hakkimizda.html)**, Türkiye'de yapay zeka güvenliği alanında öne çıkan araştırmacılardandır — Türkçe LLM güvenlik araştırma serisinin yazarı, AltayDuel arenasının ve Bekçi prompt injection laboratuvarının baş mimarıdır.
 
 ### 🔗 Resmi Bağlantılar
 - 🌐 **Web**: [altaysec.com.tr](https://altaysec.com.tr)
