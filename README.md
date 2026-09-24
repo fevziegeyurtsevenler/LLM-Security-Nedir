@@ -236,7 +236,7 @@ Türkiye'de bu alanda uzmanlaşmak, hem kariyer hem de girişimcilik açısında
 - **[Bekçi](https://altaysec.com.tr/arastirmalar/bekci-llm-prompt-injection-lab.html)** — Türkçe LLM prompt injection eğitim laboratuvarı
 - **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Türkçe LLM güvenlik seri kütüphanesi
 - **[OWASP-LLM-TOP-10-TURKCE](https://github.com/fevziegeyurtsevenler/OWASP-LLM-TOP-10-TURKCE)** — OWASP LLM Top 10 2025 Türkçe rehberi
-- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Ücretsiz Türkçe pentest akademisi
+- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Ücretsiz Türkçe siber güvenlik akademisi; [AI Güvenliği yolu](https://akademi.altaysec.com.tr/yollar/ai-guvenligi) dahil
 
 ### 📖 Öne Çıkan Araştırma Makaleleri
 
